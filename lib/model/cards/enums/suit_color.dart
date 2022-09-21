@@ -1,0 +1,4 @@
+enum SuitColor {
+  red,
+  black
+}
